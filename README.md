@@ -1,4 +1,9 @@
-### Jody Kocis 👋
+### Joseph Kocis (he/him) 👋
+
+- 🏫 I'm currently a third year senior at the University of Central Florida, where I'm studying computer science
+- 🎓 I plan on returning to UCF next year to earn a masters in computer science
+- 💻 I'm currently working at Foundation Partners Group part time as an iOS developer
+- ⌨️ I am also currently working with the UCF STIR Lab on an iOS / Android application
 
 <!--
 **Joseph-Kocis/Joseph-Kocis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
