@@ -1,4 +1,4 @@
-### Joseph Kocis (he/him) 👋
+### Joseph Kocis 👋
 
 - 🎓 I recently graduated from the University of Central Florida with a Bachelor's in Computer Science
 - 🏫 I am currently studying at UCF to earn a Master's in Computer Science
